@@ -115,7 +115,7 @@ header{
 
 
 .container-cover{
-    width: 80%;
+    width: 100%;
     height: 500px;
     position: relative;
     margin-top: 80px;
@@ -129,7 +129,7 @@ header{
     content: '';
     width: 100%;
     height: 100%;
-    background: rgba(38, 0, 0, 0.8);
+    background: rgba(38, 172, 255, 0.8);
     position: absolute;
     top: 0;
     left: 0;
